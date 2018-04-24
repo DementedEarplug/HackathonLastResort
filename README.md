@@ -1,5 +1,5 @@
 # HackathonLastResort for sleepless engineering students
-
+A graphical user interface for pdfminify.
 ## License fr pdfminify and TPG
 pdfminify is licensed under the GNU GPL v3 (except for external components as TPG, which has its own license). Later versions of the GPL are explicitly excluded.
 
